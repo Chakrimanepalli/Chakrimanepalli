@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @Chakravarthi
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Machine learning projects 
-- 📫 How to reach me chakri.manepalli3@gmail.com
-- 😄 Pronouns: he/him
+# Hi, I'm Chakravarthi Manepalli 👋
 
-<!---
-Chakrimanepalli/Chakrimanepalli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I'm a data science enthusiast with experience in Python, Power BI, and machine learning. I love working with data to uncover insights and solve real-world problems.
+
+## Skills
+- **Programming Languages**: Python, SQL
+- **Data Visualization Tools**: Power BI, Tableau
+- **Machine Learning**: Scikit-learn, PyTorch
+- **Certifications**: IBM Data Science, Data Analyst
+
+## Projects
+Here are some of my favorite projects:
+- [Combined Cycle Power Plant Energy Prediction](#)
+- [E-commerce Data Analysis Dashboard](#)
+- [Fraud Detection using Random Forests](#)
+
+## Connect with Me
+- [LinkedIn](#)
+- [Portfolio](#)
+- Email: chakri.manepalli7@gmail.com
